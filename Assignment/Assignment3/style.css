@@ -19,26 +19,7 @@ table {
 .myClass {
     background-color: #D9FF19;
 }
-#aside{
-    position: absolute;
-    width: 20%;
-    right: 5.5%;
-    top: 10%;
-    line-height: 1px;
-    font-size: 10px;
-    overflow: hidden;
-}
-#underline {
-    text-decoration: underline;
-}
-#foot {
-    position: absolute;
-    width: 20%;
-    right: 5.5%;
-    top: 55%;
-    line-height: 1px;
-    font-size: 10px;
-}
+
 .lunch {
     line-height: 20px;;
 }
